@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B95B409-B90C-4FB0-B891-558675353D06}|app-tests\\app-tests.csproj|c:\\users\\nelsonsilva-\u00FAnicorh\\source\\repos\\documentvalidator\\app-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B95B409-B90C-4FB0-B891-558675353D06}|app-tests\\app-tests.csproj|solutionrelative:app-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C14C15-6308-409C-8C2F-6E5AFEC5F116}|app-surface\\app-surface.csproj|c:\\users\\nelsonsilva-\u00FAnicorh\\source\\repos\\documentvalidator\\app-surface\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C14C15-6308-409C-8C2F-6E5AFEC5F116}|app-surface\\app-surface.csproj|solutionrelative:app-surface\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7207D1-9A1C-437E-ACE8-4B227E78235E}|app-validador\\app-validador.csproj|c:\\users\\nelsonsilva-\u00FAnicorh\\source\\repos\\documentvalidator\\app-validador\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7207D1-9A1C-437E-ACE8-4B227E78235E}|app-validador\\app-validador.csproj|solutionrelative:app-validador\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90FA9DB-9B1A-4046-B545-26CA51C273A2}|app-queue\\app-queue.csproj|c:\\users\\nelsonsilva-\u00FAnicorh\\source\\repos\\documentvalidator\\app-queue\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90FA9DB-9B1A-4046-B545-26CA51C273A2}|app-queue\\app-queue.csproj|solutionrelative:app-queue\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014ADAD5-3255-4028-9A32-7C86568AC03D}|app-authentication\\app-authentication.csproj|c:\\users\\nelsonsilva-\u00FAnicorh\\source\\repos\\documentvalidator\\app-authentication\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014ADAD5-3255-4028-9A32-7C86568AC03D}|app-authentication\\app-authentication.csproj|solutionrelative:app-authentication\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +67,68 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "app-tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-tests\\UnitTest1.cs",
+              "RelativeToolTip": "app-tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:15:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-surface\\Function1.cs",
+              "RelativeDocumentMoniker": "app-surface\\Function1.cs",
+              "ToolTip": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-surface\\Function1.cs",
+              "RelativeToolTip": "app-surface\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:07:42.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-validador\\Function1.cs",
+              "RelativeDocumentMoniker": "app-validador\\Function1.cs",
+              "ToolTip": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-validador\\Function1.cs",
+              "RelativeToolTip": "app-validador\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:06:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-queue\\Function1.cs",
+              "RelativeDocumentMoniker": "app-queue\\Function1.cs",
+              "ToolTip": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-queue\\Function1.cs",
+              "RelativeToolTip": "app-queue\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:59:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-authentication\\Function1.cs",
+              "RelativeDocumentMoniker": "app-authentication\\Function1.cs",
+              "ToolTip": "C:\\Users\\NelsonSilva-\u00DAnicoRH\\source\\repos\\DocumentValidator\\app-authentication\\Function1.cs",
+              "RelativeToolTip": "app-authentication\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:56:12.114Z"
             }
           ]
         }

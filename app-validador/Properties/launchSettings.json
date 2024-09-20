@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "app_validador": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7057",
+      "launchBrowser": false
+    }
+  }
+}
